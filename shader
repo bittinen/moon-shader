@@ -39,5 +39,4 @@ void main(void)
 	else
 		gl_FragColor.rgb = vec3(0,0,0);
 	
-}ec3(0,0,0);
 }
